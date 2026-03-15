@@ -4,26 +4,11 @@
       "id": "skill_1773576610103_7dgzxl",
       "name": "Execution Standards (执行任务规范)",
       "description": "AI执行相关规范",
-      "author": "未知",
-      "price": "free",
-      "downloadUrl": ""
-    },
-    {
-      "id": "skill_1773576610103_7dgzxl",
-      "name": "Execution Standards (执行任务规范)",
-      "description": "AI执行相关规范",
-      "author": "未知",
-      "price": "free",
-      "downloadUrl": ""
-    },
-    {
-      "id": "skill_1773576610103_7dgzxl",
-      "name": "Execution Standards (执行任务规范)",
-      "description": "AI执行相关规范",
-      "author": "未知",
+      "author": "郭郭",
+      "category": "通用",
       "price": "free",
       "downloadUrl": ""
     }
   ],
-  "updatedAt": "2026-03-15T13:39:55.325Z"
+  "updatedAt": "2026-03-15T14:16:07.061Z"
 }
