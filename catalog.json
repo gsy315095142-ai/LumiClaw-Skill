@@ -89,7 +89,16 @@
       "category": "工具",
       "price": "free",
       "downloadUrl": ""
+    },
+    {
+      "id": "skill_1773657115559_t12a42",
+      "name": "图片识别与视觉处理规范",
+      "description": "暂无简介",
+      "author": "郭郭",
+      "category": "通用",
+      "price": "free",
+      "downloadUrl": ""
     }
   ],
-  "updatedAt": "2026-03-16T10:30:27.139Z"
+  "updatedAt": "2026-03-16T10:32:02.437Z"
 }
