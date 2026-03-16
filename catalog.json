@@ -71,7 +71,16 @@
       "category": "技术",
       "price": "free",
       "downloadUrl": ""
+    },
+    {
+      "id": "skill_1773656923647_vu7tt7",
+      "name": "Hotel Info Autofiller - 酒店信息自动填充",
+      "description": "暂无简介",
+      "author": "郭郭",
+      "category": "通用",
+      "price": "free",
+      "downloadUrl": ""
     }
   ],
-  "updatedAt": "2026-03-16T10:27:30.051Z"
+  "updatedAt": "2026-03-16T10:28:52.792Z"
 }
