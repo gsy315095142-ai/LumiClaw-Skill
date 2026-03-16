@@ -26,7 +26,16 @@
       "category": "通用",
       "price": "free",
       "downloadUrl": ""
+    },
+    {
+      "id": "skill_1773656313885_cl8mdr",
+      "name": "云端图片生成 Skill",
+      "description": "云端图片生成 Skill",
+      "author": "郭郭",
+      "category": "通用",
+      "price": "free",
+      "downloadUrl": ""
     }
   ],
-  "updatedAt": "2026-03-16T10:19:47.821Z"
+  "updatedAt": "2026-03-16T10:20:01.110Z"
 }
