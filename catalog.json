@@ -116,7 +116,16 @@
       "category": "通用",
       "price": "free",
       "downloadUrl": ""
+    },
+    {
+      "id": "skill_1773657344870_cguur5",
+      "name": "SKILL: Local Video Analysis (Frames Extraction)",
+      "description": "暂无简介",
+      "author": "郭郭",
+      "category": "通用",
+      "price": "free",
+      "downloadUrl": ""
     }
   ],
-  "updatedAt": "2026-03-16T10:35:10.822Z"
+  "updatedAt": "2026-03-16T10:35:49.118Z"
 }
