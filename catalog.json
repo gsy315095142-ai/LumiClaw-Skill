@@ -80,7 +80,16 @@
       "category": "其他",
       "price": "free",
       "downloadUrl": ""
+    },
+    {
+      "id": "skill_1773656999931_qpiz6d",
+      "name": "SKILL: HTML to Image Conversion (Research)",
+      "description": "暂无简介",
+      "author": "郭郭",
+      "category": "通用",
+      "price": "free",
+      "downloadUrl": ""
     }
   ],
-  "updatedAt": "2026-03-16T10:29:26.326Z"
+  "updatedAt": "2026-03-16T10:30:07.062Z"
 }
