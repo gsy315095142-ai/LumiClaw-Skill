@@ -29,13 +29,13 @@
     },
     {
       "id": "skill_1773656313885_cl8mdr",
-      "name": "云端图片生成 Skill",
-      "description": "云端图片生成 Skill",
+      "name": "云端图片生成",
+      "description": "调用云端的API来生成图片",
       "author": "郭郭",
-      "category": "通用",
+      "category": "工具",
       "price": "free",
       "downloadUrl": ""
     }
   ],
-  "updatedAt": "2026-03-16T10:20:48.464Z"
+  "updatedAt": "2026-03-16T10:21:23.606Z"
 }
