@@ -1,0 +1,184 @@
+{
+  "version": "1.0",
+  "sources": {
+    "domestic": {
+      "name": "国内 AI 资讯",
+      "sources": [
+        {
+          "id": "zhipu",
+          "name": "智谱 AI",
+          "company": "智谱华章",
+          "home": "https://www.zhipuai.cn",
+          "news": "https://www.zhipuai.cn/news",
+          "priority": 1
+        },
+        {
+          "id": "deepseek",
+          "name": "DeepSeek",
+          "company": "深度求索",
+          "home": "https://www.deepseek.com",
+          "github": "https://github.com/deepseek-ai",
+          "priority": 1
+        },
+        {
+          "id": "tongyi",
+          "name": "阿里通义",
+          "company": "阿里云",
+          "home": "https://tongyi.aliyun.com",
+          "blog": "https://qwenlm.github.io",
+          "priority": 1
+        },
+        {
+          "id": "doubao",
+          "name": "字节豆包",
+          "company": "字节跳动",
+          "home": "https://www.doubao.com",
+          "volcengine": "https://www.volcengine.com/product/doubao",
+          "priority": 1
+        },
+        {
+          "id": "wenxin",
+          "name": "百度文心",
+          "company": "百度",
+          "home": "https://yiyan.baidu.com",
+          "priority": 2
+        },
+        {
+          "id": "xinghuo",
+          "name": "讯飞星火",
+          "company": "科大讯飞",
+          "home": "https://xinghuo.xfyun.cn",
+          "priority": 2
+        },
+        {
+          "id": "moonshot",
+          "name": "Kimi",
+          "company": "月之暗面",
+          "home": "https://kimi.moonshot.cn",
+          "priority": 1
+        },
+        {
+          "id": "minimax",
+          "name": "MiniMax",
+          "company": "MiniMax",
+          "home": "https://www.minimaxi.com",
+          "priority": 2
+        },
+        {
+          "id": "01ai",
+          "name": "零一万物",
+          "company": "01.AI",
+          "home": "https://www.01.ai",
+          "priority": 2
+        },
+        {
+          "id": "stepfun",
+          "name": "阶跃星辰",
+          "company": "StepFun",
+          "home": "https://www.stepfun.com",
+          "priority": 2
+        }
+      ],
+      "media": [
+        {
+          "id": "jiqizhixin",
+          "name": "机器之心",
+          "url": "https://www.jiqizhixin.com",
+          "type": "tech_media"
+        },
+        {
+          "id": "synced_cn",
+          "name": "Synced 中文",
+          "url": "https://syncedreview.com",
+          "type": "tech_media"
+        },
+        {
+          "id": "qbitai",
+          "name": "量子位",
+          "url": "https://www.qbitai.com",
+          "type": "tech_media"
+        }
+      ]
+    },
+    "international": {
+      "name": "国际 AI 资讯",
+      "sources": [
+        {
+          "id": "openai",
+          "name": "OpenAI",
+          "home": "https://openai.com",
+          "news": "https://openai.com/news",
+          "priority": 1
+        },
+        {
+          "id": "anthropic",
+          "name": "Anthropic",
+          "home": "https://www.anthropic.com",
+          "news": "https://www.anthropic.com/news",
+          "priority": 1
+        },
+        {
+          "id": "google",
+          "name": "Google AI",
+          "blog": "https://blog.google/technology/ai/",
+          "priority": 1
+        },
+        {
+          "id": "meta",
+          "name": "Meta AI",
+          "blog": "https://ai.meta.com/blog/",
+          "priority": 1
+        },
+        {
+          "id": "microsoft",
+          "name": "Microsoft AI",
+          "blog": "https://blogs.microsoft.com/ai/",
+          "priority": 1
+        },
+        {
+          "id": "xai",
+          "name": "xAI",
+          "home": "https://x.ai",
+          "x": "https://x.com/xAI",
+          "priority": 1
+        },
+        {
+          "id": "mistral",
+          "name": "Mistral AI",
+          "home": "https://mistral.ai",
+          "news": "https://mistral.ai/news",
+          "priority": 2
+        },
+        {
+          "id": "cohere",
+          "name": "Cohere",
+          "home": "https://cohere.com",
+          "blog": "https://cohere.com/blog",
+          "priority": 2
+        }
+      ],
+      "media": [
+        {
+          "id": "techcrunch",
+          "name": "TechCrunch AI",
+          "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+          "type": "rss"
+        },
+        {
+          "id": "verge",
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence",
+          "type": "tech_media"
+        }
+      ]
+    }
+  },
+  "report_config": {
+    "title": "🌅 早报",
+    "date_format": "YYYY-MM-DD",
+    "timezone": "Asia/Shanghai",
+    "max_headlines_per_source": 3,
+    "lookback_hours": 24,
+    "dedup_threshold": 0.8
+  }
+}
