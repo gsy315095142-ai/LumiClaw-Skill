@@ -8,7 +8,16 @@
       "category": "通用",
       "price": "free",
       "downloadUrl": ""
+    },
+    {
+      "id": "skill_1773656182221_7frofk",
+      "name": "Browser Automation with agent-browser",
+      "description": "浏览器自动化CLI",
+      "author": "郭郭",
+      "category": "工具",
+      "price": "free",
+      "downloadUrl": ""
     }
   ],
-  "updatedAt": "2026-03-16T02:03:07.130Z"
+  "updatedAt": "2026-03-16T10:17:17.961Z"
 }
