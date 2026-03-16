@@ -53,7 +53,16 @@
       "category": "文件",
       "price": "free",
       "downloadUrl": ""
+    },
+    {
+      "id": "skill_1773656747765_2sy0ep",
+      "name": "File Utils / 文件工具",
+      "description": "暂无简介",
+      "author": "郭郭",
+      "category": "通用",
+      "price": "free",
+      "downloadUrl": ""
     }
   ],
-  "updatedAt": "2026-03-16T10:24:55.200Z"
+  "updatedAt": "2026-03-16T10:25:56.095Z"
 }
