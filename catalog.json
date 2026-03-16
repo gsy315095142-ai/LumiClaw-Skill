@@ -101,13 +101,13 @@
     },
     {
       "id": "skill_1773657203355_c22b43",
-      "name": "Morning Report / 早报 Skill",
-      "description": "暂无简介",
+      "name": "AI早报",
+      "description": "获取各厂商咨询并提供早报",
       "author": "郭郭",
-      "category": "通用",
+      "category": "工具",
       "price": "free",
       "downloadUrl": ""
     }
   ],
-  "updatedAt": "2026-03-16T10:33:30.325Z"
+  "updatedAt": "2026-03-16T10:34:03.970Z"
 }
