@@ -20,10 +20,10 @@
     },
     {
       "id": "skill_1773656361225_fkgt1x",
-      "name": "ComfyUI 图片生成 Skill",
-      "description": "ComfyUI 图片生成 Skill",
+      "name": "ComfyUI 图片生成",
+      "description": "调用本地ComfyUI 生成图片",
       "author": "郭郭",
-      "category": "通用",
+      "category": "工具",
       "price": "free",
       "downloadUrl": ""
     },
@@ -37,5 +37,5 @@
       "downloadUrl": ""
     }
   ],
-  "updatedAt": "2026-03-16T10:20:01.110Z"
+  "updatedAt": "2026-03-16T10:20:48.464Z"
 }
