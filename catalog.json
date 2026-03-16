@@ -38,7 +38,7 @@
     },
     {
       "id": "skill_1773656528311_r31t92",
-      "name": "Excel文件读取与处理 Skill",
+      "name": "Excel读取与处理",
       "description": "Excel读取与处理",
       "author": "郭郭",
       "category": "文件",
@@ -46,5 +46,5 @@
       "downloadUrl": ""
     }
   ],
-  "updatedAt": "2026-03-16T10:22:47.268Z"
+  "updatedAt": "2026-03-16T10:23:20.163Z"
 }
