@@ -125,7 +125,16 @@
       "category": "文件",
       "price": "free",
       "downloadUrl": ""
+    },
+    {
+      "id": "skill_1773718430048_vty756",
+      "name": "Web Search Skill (联网搜索)",
+      "description": "联网搜索",
+      "author": "郭郭",
+      "category": "通用",
+      "price": "free",
+      "downloadUrl": ""
     }
   ],
-  "updatedAt": "2026-03-17T03:16:32.960Z"
+  "updatedAt": "2026-03-17T03:34:05.269Z"
 }
