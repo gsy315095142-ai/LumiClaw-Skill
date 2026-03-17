@@ -128,7 +128,7 @@
     },
     {
       "id": "skill_1773718430048_vty756",
-      "name": "Web Search Skill (联网搜索)",
+      "name": "Web Search (联网搜索)",
       "description": "联网搜索",
       "author": "郭郭",
       "category": "工具",
@@ -136,5 +136,5 @@
       "downloadUrl": ""
     }
   ],
-  "updatedAt": "2026-03-17T03:34:21.586Z"
+  "updatedAt": "2026-03-17T03:44:46.679Z"
 }
