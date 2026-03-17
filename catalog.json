@@ -110,10 +110,10 @@
     },
     {
       "id": "skill_1773657304009_6wxvtg",
-      "name": "PDF查看与处理 Skill",
-      "description": "暂无简介",
+      "name": "PDF查看与处理",
+      "description": "PDF查看与处理",
       "author": "郭郭",
-      "category": "通用",
+      "category": "文件",
       "price": "free",
       "downloadUrl": ""
     },
@@ -127,5 +127,5 @@
       "downloadUrl": ""
     }
   ],
-  "updatedAt": "2026-03-16T10:35:49.118Z"
+  "updatedAt": "2026-03-17T03:15:34.675Z"
 }
